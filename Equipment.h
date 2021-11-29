@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string.h>
-#include "Technician.h"
+
 
 
 using namespace std;
@@ -13,10 +13,18 @@ private:
 	string strEquipType;
 	string strCondition;
 	char chaAvailable;
-	Technician techName;
+
 	
 public:
+	//Constructor_Destructor
 	Equipment(void);
 	~Equipment(void);
+	Equipment(string, string, char);
+
+	//Mutator
+	void setEquipment (string, string, char);
+	string getEqType (void);
+	string getEqCond (void);
+	char getEqAvail (void);
 };
 

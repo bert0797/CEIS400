@@ -1,10 +1,11 @@
+#include <iostream>
+#include <string.h>
 #include "Manager.h"
 
 
 Manager::Manager(void)
 {
-	this->strFName = "";
-	this->strLName = "";
+	this->strName = "";
 	this->strDepartment = "";
 	this->intNumEmployees = 0;
 }
@@ -13,22 +14,33 @@ Manager::~Manager(void)
 {
 }
 
-Manager::Manager(string fName, string lName, string Dept, int NumEmployees)
+Manager::Manager(string Name, string Dept, int NumEmployees)
 {
-	this->strFName = fName;
-	this->strLName = lName;
+	this->strName = Name;
 	this->strDepartment = Dept;
 	this->intNumEmployees = NumEmployees;
 }
 
-void Manager::setName (string fName, string lName)
+void Manager::setManager (string Name, string Dept, int NumEmp )
 {
-	this->strFName = fName;
-	this->strLName = lName;
-	strManName = strFName + " " + strLName;
+	strName = Name;
+	strDepartment = Dept;
+	intNumEmployees = NumEmp;
 }
 
 string Manager::getName (void)
 {
-	return strManName;
+	return strName;
 }
+
+string Manager::getDept (void)
+{
+	return strDepartment;
+}
+
+int Manager::getNumEmp (void)
+{
+	return intNumEmployees;
+}
+
+

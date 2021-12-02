@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string.h>
-
+#include "Equipment.h"
 
 
 using namespace std;

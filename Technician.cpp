@@ -6,8 +6,7 @@ using namespace std;
 
 Technician::Technician(void)
 {
-	this-> strFName = "";
-	this-> strLName = "";
+	this-> strName = "";
 	this-> dblEmployeeNumber = 0;
 }
 
@@ -16,21 +15,31 @@ Technician::~Technician(void)
 {
 }
 
-Technician::Technician (string fName, string lName, double EmpNum)
+Technician::Technician (string Name, double EmpNum)
 {
-	this-> strFName = fName;
-	this-> strLName = lName;
-	this->dblEmployeeNumber = EmpNum;
+	this-> strName = Name;
+	this-> dblEmployeeNumber = EmpNum;
 
 }
 
-void Technician::setName (string fName, string lName)
+void Technician::setEmployee (string Name, double EmpNum)
 {
-	this->strFName = fName;
-	this->strLName = lName;
+	strName = Name;
+	dblEmployeeNumber = EmpNum;
 }
 
 string Technician::getName (void)
-{
-	return strFName + " " + strLName;
+{	
+	return strName;
 }
+
+void Technician::setEmpNum (double EmpNum)
+{
+	dblEmployeeNumber = EmpNum;
+}
+
+double Technician::getEmpNum (void)
+{
+	return dblEmployeeNumber;
+}
+

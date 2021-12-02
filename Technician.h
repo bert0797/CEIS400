@@ -1,34 +1,28 @@
 #include <iostream>
 #include <string.h>
-#include "Manager.h"
 
 using namespace std;
 
-
-class Technician :
-	public Manager
+class Technician
 {
 private:
-	string strFName;
-	string strLName;
 	string strDepartment;
+	string strName;
 	double dblEmployeeNumber;
-	Manager manName;
+	//Manager manName;
 
 public:
 	//Constructor_Destructor
 	Technician(void);
 	~Technician(void);
-	Technician(string,string, double);
+	Technician(string, double);
 
 	//Mutator
-	void setName (string, string);
+	void setEmployee (string, double);
 	string getName (void);
+	void setEmpNum (double);
+	double getEmpNum (void);
 
-
-
-
-
-
+	
 };
 

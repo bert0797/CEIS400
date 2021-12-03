@@ -1,0 +1,31 @@
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\bin\Debug\Group C Project.exe
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\bin\Debug\Group C Project.pdb
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group_C_Project.frmEmployee.resources
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group_C_Project.frmMain.resources
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group_C_Project.Properties.Resources.resources
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group C Project.csproj.GenerateResource.Cache
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group C Project.exe
+c:\users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group C Project.pdb
+C:\Users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\bin\Debug\CEIS400-0-0_Group_C_Project_DB.mdb
+C:\Users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\bin\Debug\Group C Project.exe.config
+C:\Users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group_C_Project.frmEquipment.resources
+C:\Users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group_C_Project.frmCheckOut.resources
+C:\Users\bert7\documents\visual studio 2010\Projects\Group C Project\Group C Project\obj\x86\Debug\Group_C_Project.frmLog.resources
+C:\Users\Bertenshaw\Desktop\School\bin\Debug\CEIS400-0-0_Group_C_Project_DB.mdb
+C:\Users\Bertenshaw\Desktop\School\bin\Debug\Group C Project.exe.config
+C:\Users\Bertenshaw\Desktop\School\bin\Debug\Group C Project.exe
+C:\Users\Bertenshaw\Desktop\School\bin\Debug\Group C Project.pdb
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group C Project.csproj.AssemblyReference.cache
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group C Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.frmCheckOut.resources
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.frmEmployee.resources
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.frmEquipment.resources
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.frmLog.resources
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.frmMain.resources
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.Properties.Resources.resources
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group C Project.csproj.GenerateResource.cache
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group C Project.csproj.CoreCompileInputs.cache
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group C Project.exe
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group C Project.pdb
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.frmNewEmployee.resources
+C:\Users\Bertenshaw\Desktop\School\obj\x86\Debug\Group_C_Project.frmNewEquip.resources
